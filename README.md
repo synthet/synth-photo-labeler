@@ -1,4 +1,4 @@
-# image-scoring-labeler
+# Synth Photo Labeler
 
 Offline-first mobile app for Vexlum human labeling (React Native + Expo + SQLite).
 
