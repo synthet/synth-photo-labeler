@@ -1,6 +1,7 @@
 {
   "name": "image-scoring-labeling-hub",
   "version": "0.1.0",
+  "homepage": "https://synthet.github.io",
   "private": true,
   "type": "module",
   "scripts": {
